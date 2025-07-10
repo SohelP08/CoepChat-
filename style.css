@@ -1,0 +1,232 @@
+:root {
+  --main-color: #0056b3;
+  --bot-color: #e8f5e9;
+  --user-color: #cfe2ff;
+  --text-color: #333;
+  --radius: 12px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: #f0f2f5;
+}
+
+.chat-toggle {
+  position: fixed;
+  bottom: 25px;
+  right: 25px;
+  background: var(--main-color);
+  color: white;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  font-size: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 8px 20px rgba(0, 86, 179, 0.3);
+  cursor: pointer;
+  transition: all 0.3s ease;
+  z-index: 1000;
+  animation: float 2s ease-in-out infinite;
+}
+.chat-toggle:hover {
+  background: #003f88;
+  transform: scale(1.05);
+}
+
+@keyframes float {
+  0% { transform: translateY(0); }
+  50% { transform: translateY(-6px); }
+  100% { transform: translateY(0); }
+}
+
+.floating {
+  animation: float 2s ease-in-out infinite;
+}
+
+
+.chatbot {
+  position: fixed;
+  bottom: 95px;
+  right: 25px;
+  width: 360px;
+  height: 500px;
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: var(--radius);
+  box-shadow: 0 12px 25px rgba(0, 0, 0, 0.2);
+  display: none;
+  flex-direction: column;
+  overflow: hidden;
+  z-index: 999;
+  animation: slideIn 0.4s ease forwards;
+  backdrop-filter: blur(10px);
+}
+
+@keyframes slideIn {
+  0% { opacity: 0; transform: scale(0.9); }
+  100% { opacity: 1; transform: scale(1); }
+}
+
+.chat-header {
+  background: linear-gradient(135deg, #007bff, #0056b3);
+  color: white;
+  padding: 14px 18px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 16px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.chat-title {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.chat-title img {
+  width: 28px;
+  height: 28px;
+  border-radius: 6px;
+}
+.chat-title span {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.close-btn {
+  cursor: pointer;
+  font-size: 18px;
+  padding: 4px 8px;
+  border-radius: 4px;
+  transition: background 0.3s ease;
+}
+.close-btn:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+
+.chat-box {
+  flex: 1;
+  padding: 20px;
+  overflow-y: auto;
+  background: #f7f9fc;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  scroll-behavior: smooth;
+}
+
+.message {
+  padding: 14px 18px;
+  border-radius: 18px;
+  max-width: 80%;
+  font-size: 15px;
+  line-height: 1.6;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.08);
+  position: relative;
+  animation: slideUp 0.25s ease;
+  word-wrap: break-word;
+}
+
+.user {
+  align-self: flex-end;
+  background: #d6eaff;
+  color: #003f88;
+  border-bottom-right-radius: 0;
+}
+
+.bot {
+  align-self: flex-start;
+  background: #e2ffe9;
+  color: #186d3f;
+  border-bottom-left-radius: 0;
+}
+
+.timestamp {
+  font-size: 11px;
+  color: #888;
+  margin-top: 6px;
+  text-align: right;
+  opacity: 0.75;
+  font-style: italic;
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.typing {
+  animation: blink 1s steps(2, start) infinite;
+  background: linear-gradient(to right, #f0f0f0, #ccc);
+  border-radius: 12px;
+  padding: 10px 15px;
+  font-style: italic;
+  font-size: 14px;
+  color: #999;
+}
+
+@keyframes blink {
+  0% { opacity: 1; }
+  50% { opacity: 0.5; }
+  100% { opacity: 1; }
+}
+
+
+.input-area {
+  display: flex;
+  padding: 16px;
+  background: #ffffffcc;
+  backdrop-filter: blur(6px);
+  border-top: 1px solid #ddd;
+  align-items: center;
+  gap: 12px;
+  box-shadow: 0 -1px 4px rgba(0, 0, 0, 0.05);
+}
+
+.input-area input {
+  flex: 1;
+  padding: 14px 16px;
+  font-size: 15px;
+  border-radius: 12px;
+  border: 1px solid #ccc;
+  background: #f3f7fb;
+  outline: none;
+  transition: border 0.3s, box-shadow 0.3s;
+}
+
+.input-area input:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.15);
+}
+
+.input-area button {
+  background: linear-gradient(to right, #28a745, #218838);
+  color: white;
+  padding: 12px 16px;
+  font-size: 16px;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 12px rgba(40, 167, 69, 0.3);
+}
+
+.input-area button:hover {
+  transform: scale(1.05);
+  background: #218838;
+}
+
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
