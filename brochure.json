@@ -13,6 +13,80 @@
   },
   {
     "questions": [
+      "What is the address of COEP?",
+      "Where is COEP located?",
+      "Can you tell me the location of COEP college?",
+      "What is the full address of College of Engineering Pune?",
+      "Where can I find COEP in Pune?"
+    ],
+    "answers": [
+      "Wellesley Rd, Shivajinagar, Pune, Maharashtra 411005"
+    ]
+  },
+  {
+    "questions": [
+      "Hello",
+      "Hi",
+      "Hey",
+      "Is anyone there?",
+      "Hii",
+      "Hey there",
+      "Greetings"
+    ],
+    "answers": [
+      "Hii, How can I help you?"
+    ]
+  },
+    {
+      "questions": [
+        "Good morning",
+        "Morning"
+      ],
+      "answers": [
+        "Good morning! How can I assist you today?"
+      ]
+    },
+    {
+      "questions": [
+        "Good afternoon",
+        "Afternoon"
+      ],
+      "answers": [
+        "Good afternoon! How may I help you?"
+      ]
+    },
+    {
+      "questions": [
+        "Good evening",
+        "Evening"
+      ],
+      "answers": [
+        "Good evening! What can I do for you?"
+      ]
+    },
+  
+  {
+    "questions": [
+      "What is the full form of COEP?",
+      "What is the full form of coep?",
+      "Expand COEP",
+      "COEP stands for?",
+      "What does COEP mean?",
+      "Can you tell me the full form of COEP?",
+      "Tell me the expansion of COEP",
+      "What is COEP in full form?",
+      "Define COEP full form",
+      "What's the abbreviation of COEP?"
+    ],
+    "answers": [
+      "The College of Engineering Pune"
+    ]
+  },
+  
+  
+  
+  {
+    "questions": [
       "When were the admission rules and amendments published?",
       "What are the dates of the admission rules and amendments?",
       "When did the Maharashtra Government release these admission rules?"
@@ -4219,8 +4293,8 @@
       "What is domicile certificate of parent who is in active service or ex-serviceman.?"
     ],
     "answers": [
-      "Engineering and Technology (B.E./B.Tech.), Hotel Management & Catering Technology (B.HMCT) , Bachelor of Planning (B.Planning) , Bachelor of Design (B.Design), Bachelor of Pharmacy (B.Pharm.), Pharmacy(Practice), Bachelor of Architecture (B.Arch.), Under Graduate Courses in Management (BBA/BMS/BBM ETC.), Bachelor of Computer Application (BCA)",
-      "Engineering and Technology (B.E./B.Tech.), Hotel Management & Catering Technology (B.HMCT) , Bachelor of Planning (B.Planning) , Bachelor of Design (B.Design), Bachelor of Pharmacy (B.Pharm.), Pharmacy(Practice), Bachelor of Architecture (B.Arch.), Under Graduate Courses in Management (BBA/BMS/BBM ETC.), Bachelor of Computer Application (BCA)",
+      "Academic Year 2025-26 for admissions to First Year and Direct Second Year of Engineering and Technology (B.E./B.Tech.) First Year and Direct Second Year of Hotel Management & Catering Technology (B.HMCT) First year of Planning (B.Planning) First Year Bachelor of Design (B.Design) First Year and Direct Second Year of Pharmacy (B.Pharm.) First Year of Bachelor of Pharmacy(Practice) First Year of Architecture (B.Arch.) First Year of Under Graduate Courses in Management (BBA/BMS/BBM ETC.) First Year of Bachelor of Computer Application (BCA)",
+      "Academic Year 2025-26 for admissions to First Year and Direct Second Year of Engineering and Technology (B.E./B.Tech.) First Year and Direct Second Year of Hotel Management & Catering Technology (B.HMCT) First year of Planning (B.Planning) First Year Bachelor of Design (B.Design) First Year and Direct Second Year of Pharmacy (B.Pharm.) First Year of Bachelor of Pharmacy(Practice) First Year of Architecture (B.Arch.) First Year of Under Graduate Courses in Management (BBA/BMS/BBM ETC.) First Year of Bachelor of Computer Application (BCA)",
       "In exercise of the powers conferred by section 23, sub-sections (1) and (2) of section 3 read with clause (r) of section 2 of the Maharashtra Unaided Private Professional Educational Institutions (Regulation of Admissions and Fees) Act, 2015 (Mah. XXVIII of 2015), the Government of Maharashtra has published the rules on 24.03.2025 and its amendments on 19.06.2025 and also published the Eligibility Conditions and Requirements for Admissions on 14.02.2025 and its amendments on 04.06.2025 to regulate the admissions to the First and Direct Second Year of Full Time Professional Under Graduate, Post Graduate, Integrated or Dual Degree Technical Courses in Engineering and Technology, Pharmacy, Architecture, Hotel Management and Catering Technology, Planning, Design, Management, Computer Applications including courses for Working Professionals and courses through collaborative / twinning mode. These rules are also applicable for admissions in Government and Government Aided professional educational institutions vide Government Resolution of Higher & Technical Education Department No. TEM-2016/CR (473/16)/ TE-4 Dated 25th April 2017 and its amendments issued from time to time. This brochure gives information regarding the eligibility and rules of admission to First and Direct Second year of various technical professional Under Graduate, Post Graduate, Integrated or Dual Degree courses in the State of Maharashtra. This also provides information about invitation of applications for admission, preparation of merit list, distribution of seats, details of reservation, various rounds and stages of Centralised Admission Process (CAP), admissions in Institutional Quota seats and vacant seats after CAP, supernumerary seats, refund of fees, etc.",
       "“Act” means the Maharashtra Unaided Private Professional Educational Institutions (Regulation of Admissions and Fees) Act, 2015 (Mah. XXVIII of 2015); “Admission Reporting Centre(ARC)” means a center where the Candidate shall report for confirmation of admission, verification of documents and payment of fees; “All India Seats” means seats available to an eligible Indian National Candidate; “Application Form” means the form prescribed by the Competent Authority and to be filled up online by the Candidate for admission; “Autonomous Institution” means the institution to which autonomy is granted by the University Grants Commission; “CAP Seats” means the seats filled in through the centralized process of admission carried out by the Competent Authority; “Courses” means the full time Under Graduate and Post Graduate, Dual Degree / integrated Technical Courses in Engineering and Technology, Pharmacy, Pharmacy (Practice), Architecture, Hotel Management and Catering Technology, Planning, Design, Management (MBA), Computer Applications (MCA), Management and Post Graduate course in Pharm. D., Master of Engineering and Technology (Integrated), 1 Master of Planning (Integrated), Master of Hotel Management Catering Technology (Integrated), Master of Computer Application (Integrated), Master of Business Administration (Integrated) and Fellow Programme in Management, Pharm. D., Pharm. D. (Post Baccalaureate) approved by the appropriate authority; “CET” means Common Entrance Test; “Competent Authority” means the Commissioner of State CET appointed by the Government under section 10 of the Act, for conducting CET through CAP for the admissions into Private Professional Educational Institutions; “CUET” means Common University Entrance Test conducted by National Testing Agency (NTA); “Department” means the Higher and Technical Education Department of the Government of Maharashtra; \"D. Voc.\" means the three years duration of course of Diploma of Vocation; “Eligible Candidate” means the candidate who is eligible for different professional courses as notified by the Government, from time to time under sub-section (1) of section 3 of the Act; “Facilitation Centre” means a Centre where the facilities like sale of application kits, filling online forms, verification of documents and grievances, etc., are provided; “Home University (HU)” means the university area as specified in sub-rule (1) of rule 5; “HSC or 10+2 Examination” means the Higher Secondary School Certificate (Standard XII) examination conducted by the Maharashtra State Board of Secondary and Higher Secondary Education or its equivalent certificate awarded by a recognized Board; “Institutional Quota” means seats available for admission to eligible Candidates at Institution level as declared by the Government or appropriate authority, from time to time; “Inter-Se-Merit” means the order of merit declared by the Competent Authority in respect of various classes or category of Candidates; “Jammu and Kashmir” means the Union Territory of Jammu and Kashmir as well as Union Territory of Ladakh; “JEE Main” means the Joint Entrance Examination conducted by the National Testing Agency, New Delhi for the concerned academic year; “Minority Quota” means seats earmarked for the Minority Community students within the State, belonging to the Minority Community to which the institution belongs; “NATA” means National Aptitude Test in Architecture conducted by Council of Architecture; “NEET” means the National Eligibility cum Entrance Test conducted by the National Testing Agency, New Delhi for the concerned academic year; “Non-Autonomous Institution” means those institutions which are not ‘Autonomous 2 Institutions’; “OHU” means the Outside Home University area; “Overseas Citizen of India (OCI)” means a Foreign national, who was eligible to become Citizen of India on 26.01.1950 or was a Citizen of India on or at any-time after 26.01.1950 or belonged to a territory that became part of India after 15.08.1947. Minor children of such person are also eligible for OCI. However, if the Applicant had even been a Citizen of Pakistan or Bangladesh, he / she will not be eligible for OCI.; (aa) “Qualifying Examination” means examinations on the basis of which a candidate becomes eligible for admission or its equivalent examination; (bb) “SSC” means the Secondary School Certificate (Standard X) examination conducted by the Maharashtra State Board of Secondary and Higher Secondary Education or its equivalent certificate awarded by a recognized Board; (cc) \"Sponsored Candidate\" means the candidate having minimum of two years of full time work experience counted after the date of declaration of result of qualifying degree till the last date of receipt of application in a registered firm or company or industry or educational and or research institute or any Government Department or Government Autonomous Organization in the relevant field in which admission is being sought; (dd) “Supernumerary Seats” means seats which are over and above the sanctioned intake approved by the appropriate authority and the Government, from time to time. (ee) “Working Professional” means professionals working in Registered industry or Organization (Central or State) or Private or Public Limited Company or MSMEs having one year experience. (ff) \"TFWS\" means the Tuition Fee Waiver Scheme of declared by Appropriate Authority such as All India Council for Technical Education, Pharmacy Council of India.",
       "The Competent Authority, the Commissioner of State Common Entrance Test Cell, Maharashtra State, shall be the authority for Centralised Admission Process and shall direct the candidates as per their allotment through CAP to all institutions i.e. Government, Government Aided, University Department, University Managed Colleges, Dr. Babasaheb Ambedkar Technological University, Lonere (BATU), COEP Technological University, Pune and Institute of Chemical Technology (ICT), Mumbai, Laxminarayan Innovation Technological University, Nagpur (LIT) and Unaided Private Professional Technical Educational Institutions. The Competent Authority shall deal with the representations received from the candidates pertaining to allotment and admissions as Grievance Redressal Authority. All the decisions taken in relation to Admission to First/ Direct Second Year to Full Time Professional Under Graduate, Post Graduate, Integrated or Dual Degree Technical Courses, by the Competent Authority shall be final and binding on all concerned. 4",
@@ -4383,29 +4457,5 @@
     "answers": [
       "Fees Prescribed for Government, Government Aided Institutes and University Managed Engineering /Technology Degree Courses: Fee structure for these institutes shall be as prescribed by the Government of Maharashtra from time to time. Fees prescribed in Unaided Private Professional Educational Institutions: The Adhoc / Interim fee structure shall be as approved by the Fee Regulating Authority established under the Act. The final fee approved and published by the Fee Regulating Authority for that year shall be the fee payable by the candidate for that course for that academic year. Details of Concession in fees for Backward Class Category and Economically Weaker Section Candidates (belonging to Maharashtra State only) For  SC/ST/VJDTNT(A)/NT(B)/NT(C)/NT(D)/SBC/OBC/SEBC  and  EWS category candidates, the scheme/mode of concessions, scheme of loan scholarship (if any) for eligible candidates, in tuition and other fees will be announced by the Central/ State Government. These candidates will get only that amount of waiver as notified in the circulars issued by the Government Department from time to time, subject to fulfillment of norms and conditions laid down by these Departments. Candidates claiming fee concession under various categories shall produce the requisite certificates as may be specified by the respective Government Departments. Fees for Jammu& Kashmir and Ladakh Migrant Candidates and North East and Union Territory Candidates admitted by appropriate authority: These candidates shall pay the fees as applicable to the Non Autonomous Government institutes (as given in 9(5)(a)). Candidates shall also pay additional fees as prescribed by the concerned University from time to time. CAP allotment stages and process of allotment- Allotment of seats under CAP shall be made in the following manner, - Maharashtra State Candidature Candidate -(a) The stages of computerised allotment are as follows, - 76"
     ]
-  },
-  {
-    "questions": [
-      "What is CAP?"
-    ],
-    "answers": [
-      "CAP round refers to the Centralized Admission Process. It is a structured, multi-round process where candidates are allotted seats in various colleges based on their merit and preferences."
-    ]
-  },
-  {
-    "questions": [
-      "What are the things the competent authority declare in relation to (Common Entrance Test) CET?"
-    ],
-    "answers": [
-      "The Competent Authority shall declare the medium and schedule of the Common Entrance Test (CET), the syllabus of subjects for each paper, the eligibility criteria for candidates, the examination fees, the method of conduct of examination, the method of evaluation, and the declaration of result."
-    ]
-  },
-  {
-  "questions": [
-  "What is the percentage of seats available for reserved categories?"
-  ],
-  "answers": [
-    "The percentage of seats reserved for candidates of reserved class categories belonging to Maharashtra State is: SC – 13%, ST – 7%, VJ/DT (NT-A) – 3%, NT-B – 2.5%, NT-C – 3.5%, NT-D – 2%, OBC – 19%, SEBC – 10% (subject to court decision), totaling 60%."
-  ]
   }
 ]
