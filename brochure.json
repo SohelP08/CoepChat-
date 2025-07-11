@@ -13,35 +13,6 @@
   },
   {
     "questions": [
-      "What is the address of COEP?",
-      "Where is COEP located?",
-      "Can you tell me the location of COEP college?",
-      "What is the full address of College of Engineering Pune?",
-      "Where can I find COEP in Pune?"
-    ],
-    "answers": [
-      "Wellesley Rd, Shivajinagar, Pune, Maharashtra 411005"
-    ]
-  },
-  {
-    "questions": [
-      "Hello",
-      "Hi",
-      "Hey",
-      "Good morning",
-      "Good afternoon",
-      "Good evening",
-      "Is anyone there?",
-      "Hii",
-      "Hey there",
-      "Greetings"
-    ],
-    "answers": [
-      "Hii, How can I help you?"
-    ]
-  },
-  {
-    "questions": [
       "When were the admission rules and amendments published?",
       "What are the dates of the admission rules and amendments?",
       "When did the Maharashtra Government release these admission rules?"
