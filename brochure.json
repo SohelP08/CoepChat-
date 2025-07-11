@@ -28,6 +28,9 @@
       "Hello",
       "Hi",
       "Hey",
+      "Good morning",
+      "Good afternoon",
+      "Good evening",
       "Is anyone there?",
       "Hii",
       "Hey there",
@@ -37,54 +40,6 @@
       "Hii, How can I help you?"
     ]
   },
-    {
-      "questions": [
-        "Good morning",
-        "Morning"
-      ],
-      "answers": [
-        "Good morning! How can I assist you today?"
-      ]
-    },
-    {
-      "questions": [
-        "Good afternoon",
-        "Afternoon"
-      ],
-      "answers": [
-        "Good afternoon! How may I help you?"
-      ]
-    },
-    {
-      "questions": [
-        "Good evening",
-        "Evening"
-      ],
-      "answers": [
-        "Good evening! What can I do for you?"
-      ]
-    },
-  
-  {
-    "questions": [
-      "What is the full form of COEP?",
-      "What is the full form of coep?",
-      "Expand COEP",
-      "COEP stands for?",
-      "What does COEP mean?",
-      "Can you tell me the full form of COEP?",
-      "Tell me the expansion of COEP",
-      "What is COEP in full form?",
-      "Define COEP full form",
-      "What's the abbreviation of COEP?"
-    ],
-    "answers": [
-      "The College of Engineering Pune"
-    ]
-  },
-  
-  
-  
   {
     "questions": [
       "When were the admission rules and amendments published?",
